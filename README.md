@@ -9,7 +9,7 @@ Existem alguns tipos de documentação e, neste curso da Alura, vamos estudar al
 Documentação é um documento ou conjunto de documentos que reúne as principais **informações de uso** de um produto ou serviço.
 
 1. [Documentação Funcional](https://github.com/darpbr/projeto-alura/blob/main/documentacao-funcional.md)
-2.
+2. [Guias e How-to](https://github.com/darpbr/projeto-alura/blob/main/guias-how-to.md)
 3.
 4.
 5.
